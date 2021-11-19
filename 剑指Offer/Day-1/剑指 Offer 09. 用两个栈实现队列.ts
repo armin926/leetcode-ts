@@ -1,11 +1,4 @@
 /*
- * @Descripttion: 剑指 Offer 09. 用两个栈实现队列
- * @Author: armin
- * @Date: 2021-11-19 10:26:39
- * @LastEditors: armin
- * @LastEditTime: 2021-11-19 10:40:57
- */
-/*
  * 题目名称： 剑指 Offer 09. 用两个栈实现队列
 
  * 题目描述： 用两个栈实现一个队列。队列的声明如下，请实现它的两个函数 appendTail 和 deleteHead ，
