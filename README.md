@@ -10,4 +10,5 @@
  剑指Offer 30 | <a href="/剑指Offer/Day-1/剑指 Offer 30. 包含min函数的栈.ts">包含min函数的栈</a> | 简单
  剑指 Offer 06 | <a href="/剑指Offer/Day-2/剑指 Offer 06. 从尾到头打印链表.ts">从尾到头打印链表</a> | 简单
  剑指 Offer 24 | <a href="/剑指Offer/Day-2/剑指 Offer 24. 反转链表.ts">反转链表</a> | 简单
+ 剑指 Offer 35 | <a href="/剑指Offer/Day-2/剑指 Offer 35. 复杂链表的复制.ts">复杂链表的复制</a> | 中等
 
