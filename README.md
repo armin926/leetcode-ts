@@ -8,5 +8,5 @@
 ---------|----------|---------
  剑指Offer 09 | <a href="/剑指Offer/Day-1/剑指 Offer 09. 用两个栈实现队列.ts">用两个栈实现队列</a> | 简单
  剑指Offer 30 | <a href="/剑指Offer/Day-1/剑指 Offer 30. 包含min函数的栈.ts">包含min函数的栈</a> | 简单
-
+ 剑指 Offer 06 | <a href="/剑指Offer/Day-2/剑指 Offer 06. 从尾到头打印链表.ts">从尾到头打印链表</a> | 简单
 
