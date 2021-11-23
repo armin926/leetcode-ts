@@ -11,4 +11,6 @@
  剑指 Offer 06 | <a href="/剑指Offer/Day-2/剑指 Offer 06. 从尾到头打印链表.ts">从尾到头打印链表</a> | 简单
  剑指 Offer 24 | <a href="/剑指Offer/Day-2/剑指 Offer 24. 反转链表.ts">反转链表</a> | 简单
  剑指 Offer 35 | <a href="/剑指Offer/Day-2/剑指 Offer 35. 复杂链表的复制.ts">复杂链表的复制</a> | 中等
+ 剑指 Offer 05 | <a href="/剑指Offer/Day-3/剑指 Offer 05. 替换空格.ts">替换空格</a> | 简单
+ 剑指 Offer 05 | <a href="/剑指Offer/Day-3/剑指 Offer 58 - II. 左旋转字符串.ts">左旋转字符串</a> | 简单
 
