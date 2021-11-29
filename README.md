@@ -13,4 +13,7 @@
  5 | 剑指 Offer 35 | <a href="/剑指Offer/Day-2/剑指 Offer 35. 复杂链表的复制.ts">复杂链表的复制</a> | 中等
  6 | 剑指 Offer 05 | <a href="/剑指Offer/Day-3/剑指 Offer 05. 替换空格.ts">替换空格</a> | 简单
  7 | 剑指 Offer 05 | <a href="/剑指Offer/Day-3/剑指 Offer 58 - II. 左旋转字符串.ts">左旋转字符串</a> | 简单
+ 8 | 剑指 Offer 03 | <a href="/剑指Offer/Day-4/剑指 Offer 03. 数组中重复的数字.ts">数组中重复的数字</a> | 简单
+ 9 | 剑指 Offer 53 - I | <a href="/剑指Offer/Day-4/剑指 Offer 53 - I. 在排序数组中查找数字 I.ts">在排序数组中查找数字 I</a> | 简单
+ 10 | 剑指 Offer 53 - II | <a href="/剑指Offer/Day-4/剑指 Offer 53 - II. 0～n-1中缺失的数字.ts">0～n-1中缺失的数字</a> | 简单
 
