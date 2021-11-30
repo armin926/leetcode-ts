@@ -16,4 +16,7 @@
  8 | 剑指 Offer 03 | <a href="/剑指Offer/Day-4/剑指 Offer 03. 数组中重复的数字.ts">数组中重复的数字</a> | 简单
  9 | 剑指 Offer 53 - I | <a href="/剑指Offer/Day-4/剑指 Offer 53 - I. 在排序数组中查找数字 I.ts">在排序数组中查找数字 I</a> | 简单
  10 | 剑指 Offer 53 - II | <a href="/剑指Offer/Day-4/剑指 Offer 53 - II. 0～n-1中缺失的数字.ts">0～n-1中缺失的数字</a> | 简单
+ 11 | 剑指 Offer 04 | <a href="/剑指Offer/Day-5/剑指 Offer 04. 二维数组中的查找.ts">二维数组中的查找</a> | 中等
+ 12 | 剑指 Offer 11 | <a href="/剑指Offer/Day-5/剑指 Offer 11. 旋转数组的最小数字.ts">旋转数组的最小数字</a> | 简单
+ 13 | 剑指 Offer 50 | <a href="/剑指Offer/Day-5/剑指 Offer 50. 第一个只出现一次的字符.ts">第一个只出现一次的字符</a> | 简单
 
