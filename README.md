@@ -19,4 +19,7 @@
  11 | 剑指 Offer 04 | <a href="/剑指Offer/Day-5/剑指 Offer 04. 二维数组中的查找.ts">二维数组中的查找</a> | 中等
  12 | 剑指 Offer 11 | <a href="/剑指Offer/Day-5/剑指 Offer 11. 旋转数组的最小数字.ts">旋转数组的最小数字</a> | 简单
  13 | 剑指 Offer 50 | <a href="/剑指Offer/Day-5/剑指 Offer 50. 第一个只出现一次的字符.ts">第一个只出现一次的字符</a> | 简单
+ 14 | 剑指 Offer 32 - I | <a href="/剑指Offer/Day-6/剑指 Offer 32 - I. 从上到下打印二叉树.ts">从上到下打印二叉树</a> | 中等
+ 15 | 剑指 Offer 32 - II | <a href="/剑指Offer/Day-6/剑指 Offer 32 - II. 从上到下打印二叉树 II.ts">从上到下打印二叉树 II</a> | 简单
+ 16 | 剑指 Offer 32 - III | <a href="/剑指Offer/Day-6/剑指 Offer 32 - III. 从上到下打印二叉树 III.ts">从上到下打印二叉树 III</a> | 中等
 
