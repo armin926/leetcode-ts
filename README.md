@@ -27,4 +27,6 @@
  20 | 剑指 Offer 10 - I | <a href="/剑指Offer/Day-8/剑指 Offer 10- I. 斐波那契数列.ts">斐波那契数列</a> | 简单
  21 | 剑指 Offer 10 - II | <a href="/剑指Offer/Day-8/剑指 Offer 10- II. 青蛙跳台阶问题.ts">青蛙跳台阶问题</a> | 简单
  22 | 剑指 Offer 63 | <a href="/剑指Offer/Day-8/剑指 Offer 63. 股票的最大利润.ts">股票的最大利润</a> | 中等
+ 22 | 剑指 Offer 42 | <a href="/剑指Offer/Day-9/剑指 Offer 42. 连续子数组的最大和.ts">连续子数组的最大和</a> | 简单
+ 23 | 剑指 Offer 47 | <a href="/剑指Offer/Day-9/剑指 Offer 47. 礼物的最大价值.ts">礼物的最大价值</a> | 中等
 
