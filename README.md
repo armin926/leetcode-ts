@@ -29,4 +29,6 @@
  22 | 剑指 Offer 63 | <a href="/剑指Offer/Day-8/剑指 Offer 63. 股票的最大利润.ts">股票的最大利润</a> | 中等
  22 | 剑指 Offer 42 | <a href="/剑指Offer/Day-9/剑指 Offer 42. 连续子数组的最大和.ts">连续子数组的最大和</a> | 简单
  23 | 剑指 Offer 47 | <a href="/剑指Offer/Day-9/剑指 Offer 47. 礼物的最大价值.ts">礼物的最大价值</a> | 中等
+ 24 | 剑指 Offer 46 | <a href="/剑指Offer/Day-10/剑指 Offer 46. 把数字翻译成字符串.ts">把数字翻译成字符串</a> | 中等
+ 25 | 剑指 Offer 48 | <a href="/剑指Offer/Day-10/剑指 Offer 48. 最长不含重复字符的子字符串.ts">最长不含重复字符的子字符串</a> | 中等
 
