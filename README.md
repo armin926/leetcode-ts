@@ -31,4 +31,6 @@
  23 | 剑指 Offer 47 | <a href="/剑指Offer/Day-9/剑指 Offer 47. 礼物的最大价值.ts">礼物的最大价值</a> | 中等
  24 | 剑指 Offer 46 | <a href="/剑指Offer/Day-10/剑指 Offer 46. 把数字翻译成字符串.ts">把数字翻译成字符串</a> | 中等
  25 | 剑指 Offer 48 | <a href="/剑指Offer/Day-10/剑指 Offer 48. 最长不含重复字符的子字符串.ts">最长不含重复字符的子字符串</a> | 中等
+ 26 | 剑指 Offer 18 | <a href="/剑指Offer/Day-11/剑指 Offer 18. 删除链表的节点.ts">删除链表的节点</a> | 简单
+ 27 | 剑指 Offer 22 | <a href="/剑指Offer/Day-11/剑指 Offer 22. 链表中倒数第k个节点.ts">链表中倒数第k个节点</a> | 简单
 
