@@ -36,6 +36,8 @@
  28 | 剑指 Offer 25 | <a href="/剑指Offer/Day-12/剑指 Offer 25. 合并两个排序的链表.ts">合并两个排序的链表</a> | 简单
  29 | 剑指 Offer 52 | <a href="/剑指Offer/Day-12/剑指 Offer 52. 两个链表的第一个公共节点.js">两个链表的第一个公共节点</a> | 简单
  30 | 剑指 Offer 21 | <a href="/剑指Offer/Day-13/剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.ts">调整数组顺序使奇数位于偶数前面</a> | 简单
- 30 | 剑指 Offer 57 | <a href="/剑指Offer/Day-13/剑指 Offer 57. 和为s的两个数字.ts">和为s的两个数字</a> | 简单
- 30 | 剑指 Offer 58 | <a href="/剑指Offer/Day-13/剑指 Offer 58 - I. 翻转单词顺序.ts">I. 翻转单词顺序</a> | 简单
+ 31 | 剑指 Offer 57 | <a href="/剑指Offer/Day-13/剑指 Offer 57. 和为s的两个数字.ts">和为s的两个数字</a> | 简单
+ 32 | 剑指 Offer 58 | <a href="/剑指Offer/Day-13/剑指 Offer 58 - I. 翻转单词顺序.ts">I. 翻转单词顺序</a> | 简单
+ 33 | 剑指 Offer 12 | <a href="/剑指Offer/Day-14/剑指 Offer 12. 矩阵中的路径.ts">I. 矩阵中的路径</a> | 中等
+ 34 | 剑指 Offer 13 | <a href="/剑指Offer/Day-14/剑指 Offer 13. 机器人的运动范围.ts">I. 机器人的运动范围</a> | 中等
 
